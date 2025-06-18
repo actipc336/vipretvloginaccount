@@ -4,7 +4,7 @@ How to Login Vipre Antivirus Account?
    :maxdepth: 2
    :caption: Contents:   
 
-.. image:: login.png
+.. image:: login-button-png-15.png
    :alt: My Project Logo
    :width: 200px
    :align: center
